@@ -27,14 +27,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-<a href="https://github.com/Rodrigodinizdev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigodinizdev&repo=primeiro-repo" />
-</a>
-
-> *Se quiser, me diga quais repositórios destacar que deixo aqui bonitinho.*
-
----
 
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
@@ -48,10 +40,10 @@
 ---
 
 ## 📫 Onde me encontrar
-- ✉️ **Email:** coloque aqui se quiser  
-- 💼 **LinkedIn:** se tiver, me passe que eu coloco  
-- 💻 Portfólio (opcional)
+- ✉️ **Email:** rodrigodiniz.developer@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rodrigo-dinizdev/
 
+  
 ---
 
 <p align="center">Obrigado por visitar meu perfil! 😄</p>
